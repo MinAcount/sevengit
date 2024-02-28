@@ -11,6 +11,13 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
+
 kim에서 작업한 1번째
+
+
+
+어이어이 나 kim 인데 어제 열일해서 '
+코드가 좀 생겼어 
+
 </body>
 </html>
